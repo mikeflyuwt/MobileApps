@@ -30,7 +30,7 @@
     </fragment>
     <fragment
         android:id="@+id/successFragment"
-        android:name="edu.uw.main.ui.auth.SuccessFragment"
+        android:name="edu.uw.main.ui.home.SuccessFragment"
         android:label="fragment_success"
         tools:layout="@layout/fragment_success" >
         <argument

@@ -1,4 +1,4 @@
-package edu.uw.main.ui.auth;
+package edu.uw.main.ui.home;
 
 import android.os.Bundle;
 

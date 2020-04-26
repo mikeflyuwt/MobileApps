@@ -1,27 +1,36 @@
 <resources>
-    <string name="app_name">Registration</string>
+    <string name="app_name">Mobile App</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Login Fragment -->
     <string name="text_first_email">Email</string>
     <string name="text_first_password">Password</string>
     <string name="button_first_register">REGISTER</string>
     <string name="button_first_success">SIGN IN</string>
+
+    <!-- Registration Fragment -->
     <string name="text_second_email">Email</string>
     <string name="text_second_password">Password</string>
     <string name="text_second_retypePassword">Retype Password</string>
     <string name="button_second_register">REGISTER</string>
-    <string name="text_third_message">TEST</string>
+    <string name="hint_first_name">First Name</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="hint_nickname">Nickname</string>
 
+    <!-- Chat Fragment -->
+
+
+
+    <!-- Main Activity -->
     <string name="title_home">Home</string>
     <string name="title_blogs">Blogs</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_weather">Weather</string>
 
     <string name="hint_email">Enter your email address</string>
     <string name="action_signin">Sign In</string>
     <string name="action_next">Next</string>
     <string name="action_settings">Settings</string>
     <string name="action_link">Full Post</string>
-    <string name="hint_first_name">First Name</string>
-    <string name="hint_last_name">Last Name</string>
-    <string name="hint_nickname">Nickname</string>
+    <string name="text_third_message">TEST</string>
+
 </resources>

@@ -69,8 +69,6 @@ public class LoginFragment extends Fragment {
                     this::processPassword,
                     this::handleEmailError);
 
-
-
     }
 
     private void handleEmailError(ValidationResult result) {
